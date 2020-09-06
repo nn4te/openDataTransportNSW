@@ -3,7 +3,7 @@ import os
 import datetime
 from datetime import date
 
-beginningDate = datetime.date(2020,1,11)
+beginningDate = datetime.date(2020,1,1)
 d = beginningDate
 
 headers = {
